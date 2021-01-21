@@ -1,5 +1,5 @@
 ---
-title: 静态博客编辑器-系列教程(一)  快速入门
+title: jkkkjjkkjkjkjkkj  快速入门
 date: 2021-01-20 19:19:14
 categories: 
 - [系列教程]
